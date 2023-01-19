@@ -1,2 +1,1 @@
-# PaginationProject
-pagination-ajax
+# Exercise-2-PageNumbering
